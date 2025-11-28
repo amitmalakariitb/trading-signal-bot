@@ -1,8 +1,3 @@
-
-
----
-
-```md
 # 🧠 Trading Signal Bot
 
 Automated **daily stock signal scanner** that analyzes **End-Of-Day (EOD)** market data using technical indicator strategies (EMA crossover, RSI, MACD planned, Volume breakout planned) and sends **BUY / WATCH (near-signal)** alerts via **Telegram**.  
@@ -27,7 +22,7 @@ GitHub Actions automation | ✔
 
 ## 🏛 System Architecture
 
-```
+
 
 Watchlist.csv (Symbols + Strategy Mapping)
 ↓
@@ -43,9 +38,6 @@ SQLite History (prevent duplicate alerts)
 ↓
 Telegram Notification Delivery
 
-````
-
----
 
 ## 📦 Installation & Local Testing
 
