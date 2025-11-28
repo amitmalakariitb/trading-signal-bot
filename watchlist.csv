@@ -79,3 +79,10 @@ UBL.NS,stochastic_buy
 ULTRACEMCO.NS,stochastic_buy
 UNITDSPR.NS,stochastic_buy
 VBL.NS,stochastic_buy
+^NSEI,stochastic_buy
+^NSEBANK,stochastic_buy
+^CNXIT,stochastic_buy
+^CNXFMCG,stochastic_buy
+^CNXPHARMA,stochastic_buy
+^CNXAUTO,stochastic_buy
+^BSESN,stochastic_buy
